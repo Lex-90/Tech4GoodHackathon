@@ -6,7 +6,7 @@
 ## Team members
 * **Swenne Offerhaus**
 * **Gonçalo Leal**
-* **Anna Ayerkany**
+* **Anna Manaseryan**
 * **Alexandru Ana**
 
 ## Challenge
