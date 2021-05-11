@@ -4,9 +4,10 @@
 **Code4TheBest2night**
 
 ## Team members
-**Swenne Offerhaus**
-**Gonçalo Leal**
-**Anna Ayerkany**
+**Swenne Offerhaus** - 
+**Gonçalo Leal** - 
+**Anna Ayerkany** - 
+**Alexandru Ana**
 
 ## App name
 **EcoQuiz - Home Edition**
